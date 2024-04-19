@@ -1,4 +1,8 @@
-url: ~
+url: https://jenko1979.github.io/day2Workshop/
 template:
   bootstrap: 5
 
+reference:
+  - title: Package
+    contents:
+      - getSimulatedTwoArmMeans
