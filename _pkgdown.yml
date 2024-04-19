@@ -3,6 +3,10 @@ template:
   bootstrap: 5
 
 reference:
-  - title: Package
+  - title: Method
     contents:
       - getSimulatedTwoArmMeans
+  - title: Functions
+    contents:
+      - plot.SimulationResult
+      - print.SimulationResult
